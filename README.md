@@ -1,4 +1,4 @@
-# 📈 GAG - Génération Assistée de Graphiques
+# GAG
 
 Application web pour générer et modifier des graphiques scientifiques à partir de fichiers de données, propulsée par l'intelligence artificielle.
 
@@ -143,4 +143,3 @@ Pour toute question ou problème :
 
 **GAG - Génération Assistée de Graphiques**  
 Développé avec ❤️ par **Communauté IA**
-
